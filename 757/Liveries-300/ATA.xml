@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>ATA airlines</name>
+				<texture>ATA-300.png</texture>
+				<winglets type="bool">False</winglets>
+			</livery>  	  
+		</model>
+	</sim>
+</PropertyList>
