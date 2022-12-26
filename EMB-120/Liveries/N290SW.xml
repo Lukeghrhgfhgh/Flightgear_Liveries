@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Berry Aviation</name>
+				<texture>N290SW.png</texture>
+			</livery>
+			<wings>
+				<name type="string">Berry Aviation</name>
+				<texture>aluminio_wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>

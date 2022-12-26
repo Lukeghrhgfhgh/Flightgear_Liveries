@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Infinite flight</name>
+				<texture>IFL.png</texture>
+			</livery>
+			<wings>
+				<name type="string">Infinite Flight</name>
+				<texture>IFL_wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>

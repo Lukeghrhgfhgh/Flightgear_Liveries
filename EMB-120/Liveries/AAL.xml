@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">American Eagle</name>
+				<texture>AAL.png</texture>
+			</livery>
+			<wings>
+				<name type="string">American Eagle</name>
+				<texture>aluminio.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>

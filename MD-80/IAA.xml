@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!--
+    Made by Pilot2938
+-->
+
+<PropertyList>
+
+<sim>
+  <model>
+    <livery>
+      <name type="string">Inex Adria Aviopromet</name>
+      <texture>Liveries/IAA_fuselage.png</texture>
+    </livery>
+    <fairings>
+      <texture>Liveries/IAA_fuselage_fairing.png</texture>
+    </fairings>
+    <rudders>
+      <texture>Liveries/IAA_vstab_engines.png</texture>
+    </rudders>
+  </model>
+</sim>
+</PropertyList>

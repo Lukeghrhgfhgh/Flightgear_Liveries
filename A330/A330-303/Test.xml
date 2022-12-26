@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>A330 With a Mask</name>
+				<texture>Liveries/A333GE/A330 Mask.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

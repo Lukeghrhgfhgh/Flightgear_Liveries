@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Ryanair</name>
+				<texture>RYR.png</texture>
+			</livery>
+			<wings>
+				<name type="string">Ryanair</name>
+				<texture>RYR_wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>

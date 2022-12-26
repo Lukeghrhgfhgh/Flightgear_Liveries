@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+	<sim>
+		<model>
+			<livery>
+				<name>SkyTrain</name>
+				<texture>Liveries/DC-10-30/SKR.png</texture>
+				<registration>G-AZZC</registration>
+				<has-center-gear type="bool">false</has-center-gear>
+			</livery>
+		</model>
+	</sim>
+
+</PropertyList>

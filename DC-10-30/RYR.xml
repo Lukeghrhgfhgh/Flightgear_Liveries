@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+<sim><model>
+<livery>
+<name>Ryanair (Fictional)</name>
+<texture>Liveries/DC-10-30/RYR.png</texture>
+<registration>ZK-NZP</registration>
+<has-center-gear type="bool">false</has-center-gear></livery>
+</model></sim>
+
+</PropertyList>
