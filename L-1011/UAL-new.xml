@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+ <PropertyList>
+  <sim>
+   <model>
+    <livery>
+     <name type="string">United airlines (UAL) New livery</name>
+     <texture>Liveries/UAL-new.png</texture>
+    </livery>
+   </model>
+  </sim>
+ </PropertyList>
