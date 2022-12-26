@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">Greenair</name>
+				<texture>Liveries/Greenair/maina_a.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/Greenair/maina-b.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/Greenair/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/Greenair/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/Greenair/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
