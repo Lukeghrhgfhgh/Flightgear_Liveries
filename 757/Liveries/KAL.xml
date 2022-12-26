@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Korean Air</name>
+				<texture>KAL.png</texture>
+				<winglets type="bool">true</winglets>
+			</livery>
+			<reflection>
+				<reflection-correction>-0.1</reflection-correction>
+			</reflection>
+		</model>
+	</sim>
+</PropertyList>

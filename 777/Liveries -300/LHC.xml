@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Lufthansa Cargo</name>
+            <texture>Liveries-300/LHC.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>WTH</aircraft-operator>
+</sim>
+</PropertyList>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">777-300 Prototype Livery</name>
+            <texture>Liveries-300/PTY.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>BOE</aircraft-operator>
+    <aircraft-registration>N5014K</aircraft-registration>
+    <aircraft-SELCAL>AH-FQ</aircraft-SELCAL>
+</sim>
+</PropertyList>

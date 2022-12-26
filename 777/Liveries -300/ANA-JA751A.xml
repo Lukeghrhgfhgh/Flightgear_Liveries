@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">ANA All nippon Airways (777-300 Livery)</name>
+            <texture>Liveries-300/ANA-JA751A.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>BOE</aircraft-operator>
+    <aircraft-registration>N5014K</aircraft-registration>
+    <aircraft-SELCAL>AH-FQ</aircraft-SELCAL>
+</sim>
+</PropertyList>
