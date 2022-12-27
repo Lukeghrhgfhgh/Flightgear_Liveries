@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ 
+ <PropertyList>
+  <sim>
+   <model>
+    <livery>
+     <name type="string">Indian Airlines (Early 2000s)</name>
+     <texture>Liveries/603/IA.png</texture>
+    </livery>
+   </model>
+  </sim>
+ </PropertyList>
