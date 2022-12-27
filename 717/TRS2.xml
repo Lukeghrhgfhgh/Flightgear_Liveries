@@ -5,7 +5,7 @@
 		<model>
 			<livery>
 				<name>AirTran Airways (Atlanta Falcons)</name>
-				<texture>TRS2.png</texture>
+				<texture>Liveries/TRS2.png</texture>
 			</livery>
 		</model>
 	</sim>
