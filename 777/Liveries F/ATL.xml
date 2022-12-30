@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">ATL Atlas Air</name>
+            <texture>Liveries-F/ATL.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>ATL</aircraft-operator>
+</sim>
+</PropertyList>
