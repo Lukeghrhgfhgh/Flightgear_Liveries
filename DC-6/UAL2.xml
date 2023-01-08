@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">United Airlines (Mainliner Livery)</name>
+            <texture>Liveries/UAL2.png</texture>
+	    <specular>
+	      <red>0.3</red>
+	      <green>0.3</green>
+	      <blue>0.3</blue>
+	    </specular>
+	    <emission>
+	      <red>0.1</red>
+	      <green>0.1</green>
+	      <blue>0.1</blue>
+	    </emission>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
