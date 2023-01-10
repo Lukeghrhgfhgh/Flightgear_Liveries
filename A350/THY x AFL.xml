@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <sim>
+    <model>
+      <livery>
+        <name type="string">THY - Turkish Airlines (Ex-Aeroflot)</name>
+        <index type="int">2</index>
+        <bodyWork>
+  	  <texture>Liveries/THY x AFL.png</texture>
+        </bodyWork>
+      </livery>
+    </model>
+  </sim>
+</PropertyList>
