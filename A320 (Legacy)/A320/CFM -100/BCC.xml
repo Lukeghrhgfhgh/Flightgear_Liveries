@@ -1,0 +1,10 @@
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name type="string">British Caledonian</name>
+				<texture>Liveries/A320/CFM-100/BCC.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
