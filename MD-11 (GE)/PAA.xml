@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Pan American Airways</name>
+				<texture>Liveries/MD-11/GE/PAA.png</texture>
+			</livery>
+		</model>
+	</sim> 
+</PropertyList>
