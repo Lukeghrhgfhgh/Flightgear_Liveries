@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Porter Airlines</name>
+            <texture>/../Models/Liveries/E195/POR.png</texture>
+        </livery>
+        <tail-number>PR-AYN</tail-number>
+    </model>
+</sim>
+</PropertyList>
