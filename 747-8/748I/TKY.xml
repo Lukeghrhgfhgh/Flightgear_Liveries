@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Turkish Presidential</name>
+				<texture>Liveries/748I/TKY.png</texture>
+			</livery>
+			<turbofans>
+				<name type="string">Lufthansa</name>
+				<texture>Liveries/748I/Lufthansa_turbofan_new.png</texture>
+			</turbofans>
+			<wings>
+				<name type="string">Lufthansa</name>
+				<texture>Liveries/748I/wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>
