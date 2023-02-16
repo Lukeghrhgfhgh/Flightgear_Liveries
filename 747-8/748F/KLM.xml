@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">KLM Royal Dutch Airlines (1970s)</name>
+				<texture>Liveries/748F/KLM.png</texture>
+			</livery>
+			<turbofans>
+				<name type="string">Lufthansa</name>
+				<texture>Liveries/748F/KLM_Turbofan.png</texture>
+			</turbofans>
+			<wings>
+				<name type="string">Lufthansa</name>
+				<texture>Liveries/748I/wings.png</texture>
+			</wings>
+    </model>
+</sim>
+</PropertyList>
