@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">Scandinavian Airlines (White)</name>
+            <texture>/../Models/Liveries/E195/SVS2.png</texture>
+        </livery>
+        <tail-number>SE-RSP</tail-number>
+    </model>
+</sim>
+</PropertyList>
