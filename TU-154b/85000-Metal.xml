@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">85000 - Aeroflot metal</name>
+				<texture>Liveries/85000-Metal/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/85000-Metal/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/85000-Metal/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/85000-Metal/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/85000-Metal/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
